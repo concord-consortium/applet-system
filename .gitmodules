@@ -1,0 +1,27 @@
+[submodule "app"]
+	path = app
+	url = git://github.com/stepheneb/lightweight-sensor-graphs.git
+[submodule "java/sensor-applets"]
+	path = java/sensor-applets
+	url = git://github.com/concord-consortium/sensor-applets.git
+[submodule "java/sensor-native"]
+	path = java/sensor-native
+	url = git://github.com/concord-consortium/sensor-native.git
+[submodule "java/data"]
+	path = java/data
+	url = git://github.com/concord-consortium/data.git
+[submodule "java/framework"]
+	path = java/framework
+	url = git://github.com/concord-consortium/framework.git
+[submodule "java/frameworkview"]
+	path = java/frameworkview
+	url = git://github.com/concord-consortium/frameworkview.git
+[submodule "java/otrunk"]
+	path = java/otrunk
+	url = git://github.com/concord-consortium/otrunk.git
+[submodule "java/sensor"]
+	path = java/sensor
+	url = git://github.com/concord-consortium/sensor.git
+[submodule "java/mw"]
+	path = java/mw
+	url = git://github.com/concord-consortium/mw.git

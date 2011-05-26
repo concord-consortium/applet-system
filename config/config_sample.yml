@@ -1,0 +1,4 @@
+# password and alias for your Java siging certificate.
+---
+:password: password
+:alias: alias
